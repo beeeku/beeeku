@@ -13,3 +13,4 @@ I’m Bikash, a **Software Engineering Leader** & I am passionate about making p
 - 👯 I’m looking to upskill people with my learnings of Life.
 - 💬 Reach me out for building products of your dream or if you want me to speak at your event.
 - 📫 How to reach me: [hi@bika.sh](mailto://hi@bika.sh)
+![Metrics](https://metrics.lecoq.io/beeeku?template=classic&stars=1&languages=1&stars.limit=4&config.timezone=Asia%2FCalcutta)
